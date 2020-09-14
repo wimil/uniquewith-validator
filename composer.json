@@ -1,5 +1,5 @@
 {
-    "name": "felixkiss/uniquewith-validator",
+    "name": "wimil/uniquewith-validator",
     "description": "Custom Laravel Validator for combined unique indexes",
     "keywords": ["laravel"],
     "homepage": "https://github.com/felixkiss/uniquewith-validator",
